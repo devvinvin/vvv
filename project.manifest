@@ -1,10 +1,10 @@
 {
-    "packageUrl": "http://192.168.0.100:3009/m/",
+    "packageUrl": "https://resources.vinbet.club/m/",
     "searchPaths": [],
     "assets": {
     },
-    "remoteVersionUrl": "http://192.168.0.100:3009/m/version.manifest",
+    "remoteVersionUrl": "https://resources.vinbet.club/m/version.manifest",
     "version": "1.0.1",
     "engineVersion": "3.17",
-    "remoteManifestUrl": "http://192.168.0.100:3009/m/project.manifest"
+    "remoteManifestUrl": "https://resources.vinbet.club/m/project.manifest"
 }
