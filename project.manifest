@@ -1,7 +1,8 @@
 {
     "packageUrl": "http://resources.vinbet.club/m/",
     "searchPaths": [],
-    "assets": {},
+    "assets": {
+    },
     "remoteVersionUrl": "http://resources.vinbet.club/m/version.manifest",
     "version": "1.0.1",
     "engineVersion": "3.17",
