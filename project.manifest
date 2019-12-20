@@ -1,10 +1,10 @@
 {
-    "packageUrl": "http://192.168.0.100:3009/client_config/",
+    "packageUrl": "http://192.168.0.100:3009/m/",
     "searchPaths": [],
     "assets": {
     },
-    "remoteVersionUrl": "http://192.168.0.100:3009/client_config/version.manifest",
-    "version": "1.0.0",
+    "remoteVersionUrl": "http://192.168.0.100:3009/m/version.manifest",
+    "version": "1.0.1",
     "engineVersion": "3.17",
-    "remoteManifestUrl": "http://192.168.0.100:3009/client_config/project.manifest"
+    "remoteManifestUrl": "http://192.168.0.100:3009/m/project.manifest"
 }
