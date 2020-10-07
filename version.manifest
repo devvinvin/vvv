@@ -1,9 +1,9 @@
 {
-    "packageUrl": "http://resources.vinbet.fun/m/",
+    "packageUrl": "http://resources.ivin.club/m/",
     "searchPaths": [],
     "assets": {},
-    "remoteVersionUrl": "http://resources.vinbet.fun/m/version.manifest",
+    "remoteVersionUrl": "http://resources.ivin.club/m/version.manifest",
     "version": "1.0.1",
     "engineVersion": "3.17",
-    "remoteManifestUrl": "http://resources.vinbet.fun/m/project.manifest"
+    "remoteManifestUrl": "http://resources.ivin.club/m/project.manifest"
 }
