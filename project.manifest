@@ -1,10 +1,10 @@
 {
-    "packageUrl": "http://127.0.0.1:3001/m/",
+    "packageUrl": "http://resources.ivin.club/m/",
     "searchPaths": [],
     "assets": {
     },
-    "remoteVersionUrl": "http://127.0.0.1:3001/m/version.manifest",
+    "remoteVersionUrl": "http://resources.ivin.club/m/version.manifest",
     "version": "1.0.1",
     "engineVersion": "3.17",
-    "remoteManifestUrl": "http://127.0.0.1:3001/m/project.manifest"
+    "remoteManifestUrl": "http://resources.ivin.club/m/project.manifest"
 }
