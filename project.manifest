@@ -1,10 +1,10 @@
 {
-    "packageUrl": "http://resources.vin60s.com/m/",
+    "packageUrl": "http://resources.win4games.com/m/",
     "searchPaths": [],
     "assets": {
     },
-    "remoteVersionUrl": "http://resources.vin60s.com/m/version.manifest",
+    "remoteVersionUrl": "http://resources.win4games.com/m/version.manifest",
     "version": "1.0.1",
     "engineVersion": "3.17",
-    "remoteManifestUrl": "http://resources.vin60s.com/m/project.manifest"
+    "remoteManifestUrl": "http://resources.win4games.com/m/project.manifest"
 }
