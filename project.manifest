@@ -1,10 +1,10 @@
 {
-    "packageUrl": "http://resources.win4games.com/m/",
+    "packageUrl": "https://raw.githubusercontent.com/dev4winn/m/main/m/",
     "searchPaths": [],
     "assets": {
     },
-    "remoteVersionUrl": "http://resources.win4games.com/m/version.manifest",
+    "remoteVersionUrl": "https://raw.githubusercontent.com/dev4winn/m/main/m/version.manifest",
     "version": "1.0.1",
     "engineVersion": "3.17",
-    "remoteManifestUrl": "http://resources.win4games.com/m/project.manifest"
+    "remoteManifestUrl": "https://raw.githubusercontent.com/dev4winn/m/main/m/project.manifest"
 }
